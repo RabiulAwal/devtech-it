@@ -1795,6 +1795,7 @@ header {
 }
 .ct-socials li a:hover {
     width: 54px;
+    margin-right: 10px; 
     padding-left: 0;
     text-decoration: none;
     background: #3c9bd9;
